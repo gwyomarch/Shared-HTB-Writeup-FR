@@ -172,7 +172,7 @@ Puis, on lance un [**script Lua**](https://thesecmaster.com/how-to-fix-cve-2022-
 
 ![LUA Exploit](img/26b-LUA-Exploit.JPG)
 
-Ca fonctionne pour lancer quelques commandes mais ce n'est pas stable, la connexion coupe au bout d'une minute environ.
+Ça fonctionne pour lancer quelques commandes mais ce n'est pas stable, la connexion coupe au bout d'une minute environ.
 
 ![Get Root With POC](img/26c-Get-Root.JPG)
 
