@@ -82,6 +82,19 @@ Essayons de cracker son mot de passe.
 
 ![Crack Password](img/13-Cracked.JPG)
 
+Mais on aurait aussi très bien pu enregistrer la requête dans un fichier depuis BurpSuite et utiliser SQLMap.
+
+![BurpSuite File](img/13d-BurpSuite-File.png)
+
+![SQLMap Injection](img/13a-SQLmap-Injection.JPG)
+
+![SQLMap Tables](img/13b-SQLmap-Tables.JPG)
+
+![SQLMap Dump](img/13c-SQLmap-Dump.JPG)
+
+
+
+
 ## FOOTHOLD
 
 Avec son mot de passe, on peut se connecter en SSH à la machine cible.
